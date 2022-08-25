@@ -1,0 +1,8 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+trabajo_en_clase/__pycache__
+media
+/env
